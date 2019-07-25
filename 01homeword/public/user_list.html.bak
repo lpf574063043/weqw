@@ -1,0 +1,5 @@
+<form method="get" action="/user/list">
+าณย๋<input type="text" name="pno">
+ด๓ะก<input type="text" name="size" >
+<input type="text" >
+</form>

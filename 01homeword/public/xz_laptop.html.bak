@@ -1,0 +1,4 @@
+<form action="/user/delete" method="get">
+É¾³ý±àºÅ:<input type="text" name="uid">
+<input type="submit" value="É¾³ý">
+</form>

@@ -1,0 +1,8 @@
+<h2>登录</h2>
+<form method="post" action="/user/reg">
+用户名:<input type="text" name="dname"><br>
+密码:<input type="text" name="upwd"><br>
+邮箱:<input type="text" name="elim"><br>
+手机:<input type="text" name="hopen"><br>
+<input type="submit" value="提交"><br>
+<form>

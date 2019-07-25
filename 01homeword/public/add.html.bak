@@ -1,0 +1,5 @@
+<h2>部门添加</h2>
+<form method="get" action="/add">
+部门名称:<input type="text" name="dname">
+<input type="submit" value="提交">
+<form>

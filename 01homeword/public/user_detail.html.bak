@@ -1,0 +1,5 @@
+
+<form method="get" action="/user/detail">
+±àºÅ<input type="text" name="uid">
+<input type="submit" value="Ìá½»">
+</form>

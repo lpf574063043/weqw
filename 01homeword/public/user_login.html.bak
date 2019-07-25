@@ -1,0 +1,5 @@
+<form method="post" action="/user/login">
+ำรปงร๛:<input type="text" name="uname"><br>
+รÜย๋:<input type="text" name="upwd"><br>
+<input type="submit" value="ตวยผ">
+<form>
